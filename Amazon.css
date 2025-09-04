@@ -33,7 +33,6 @@ html, body {
 
 
 .logo {
-    background-image: url("images/amazon_logo.png");
     background-size:cover;
     height: 50px;
     width:100%;
@@ -475,6 +474,7 @@ ul p {
 
 
 }
+
 
 
 
