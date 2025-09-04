@@ -16,7 +16,7 @@ The project was created as part of my web development learning journey.
 ---
 
 ## 📸 Screenshot
-![Amazon Clone Screenshot](screenshot.png)  
+![Amazon Clone Screenshot](Screenshot.png)  
 (Add your screenshot image to the repo root and name it screenshot.png to make this work.)  
 
 ---
