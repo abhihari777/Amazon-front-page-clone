@@ -10,7 +10,7 @@
 
 html, body {
   width: 100%;
-  overflow-x: hidden;  /* 🚫 stop horizontal scroll */
+  overflow-x: hidden;  
 }
 
 
@@ -34,7 +34,7 @@ html, body {
 
 .logo {
     
-    background-image: url(amazon_logo.png);
+    background-image: url(images/amazon_logo.png);
     background-size:cover;
     height: 50px;
     width:100%;
@@ -174,7 +174,7 @@ span {
 /* background */
 
 .background {
-    background-image: url(71qaeC7FpjL._SX3000_.jpg);
+    background-image: url(images/71qaeC7FpjL._SX3000_.jpg);
     background-size: cover;
     height: 300px;
     width:100%;
@@ -371,7 +371,7 @@ ul p {
 
 
 .logo3 {
-    background-image: url(amazon_logo.png);
+    background-image: url(images/amazon_logo.png);
     background-size:cover;
     height: 50px;
     width:100px;
@@ -473,5 +473,6 @@ ul p {
        min-width:1164px;
        min-height:180px;
     }
+
 
 }
