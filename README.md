@@ -16,8 +16,7 @@ The project was created as part of my web development learning journey.
 ---
 
 ## 📸 Screenshot
-![Amazon Clone Screenshot](Screenshot.png)  
-(Add your screenshot image to the repo root and name it screenshot.png to make this work.)  
+![Amazon Clone Screenshot](Screenshot.png)   
 
 ---
 
@@ -31,6 +30,3 @@ The project was created as part of my web development learning journey.
 - This project is *not fully responsive yet* → works best on desktop.  
 - Future improvements will include responsiveness for mobile & tablet devices.  
 
----
-
-## 📂 Project Structure
