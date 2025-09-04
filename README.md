@@ -1,18 +1,36 @@
-# Amazon Front Page Clone  
+# 🛒 Amazon Front Page Clone  
 
-This is a simple Amazon front page clone built using HTML and CSS.  
-It was created as a practice project to improve my web development skills.  
+This is a *static clone of Amazon’s front page, built using **HTML and CSS*.  
+The project was created as part of my web development learning journey.  
 
-## Features
+🔗 *Live Demo*: [View Here](https://abhihari777.github.io/Amazon-front-page-clone/)  
+
+---
+
+## 📌 Features
 - Amazon-like header and footer  
 - Navigation bar with hover effects  
-- Product grid (static layout)  
-- "See More" button with hover animation  
+- Product section styled with CSS  
+- “See More” button with hover animation  
 
-## Notes
-- The project is not yet fully responsive, so it works best on larger screens.  
-- Future updates will include responsiveness for mobile and tablet.  
+---
 
-## Live Demo
-👉 [View Project]( https://abhihari777.github.io/Amazon-front-page-clone/)  
+## 📸 Screenshot
+![Amazon Clone Screenshot](screenshot.png)  
+(Add your screenshot image to the repo root and name it screenshot.png to make this work.)  
 
+---
+
+## 🛠️ Tech Stack
+- *HTML5*  
+- *CSS3*  
+
+---
+
+## 📖 Notes
+- This project is *not fully responsive yet* → works best on desktop.  
+- Future improvements will include responsiveness for mobile & tablet devices.  
+
+---
+
+## 📂 Project Structure
