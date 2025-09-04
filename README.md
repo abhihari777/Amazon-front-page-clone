@@ -16,5 +16,3 @@ It was created as a practice project to improve my web development skills.
 ## Live Demo
 👉 [View Project]( https://abhihari777.github.io/Amazon-front-page-clone/)  
 
-## Screenshots
-![Amazon Clone Screenshot]<img width="960" height="540" alt="Screenshot" src="https://github.com/user-attachments/assets/f949476f-647c-4d9f-93d4-eaa00bd0f0f4" />
