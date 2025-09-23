@@ -177,7 +177,7 @@ span {
 /* background */
 
 .background {
-    background:linear-gradient(to bottom, rgba(226,231,230,0), rgba(226,231,230,0.1)),url(71qaeC7FpjL._SX3000_.jpg);
+    background:linear-gradient(to bottom, rgba(226,231,230,0), rgba(226,231,230,0.1)),url(images/71qaeC7FpjL._SX3000_.jpg);
     background-size: cover;
     background-repeat:no-repeat;
     background-position: center fixed;
@@ -398,7 +398,7 @@ ul p {
 
 
 .logo3 {
-    background-image: url(amazon_logo.png);
+    background-image: url(images/amazon_logo.png);
     background-size:cover;
     height: 50px;
     width:100px;
@@ -1274,5 +1274,6 @@ ul p {
     }
 
 }
+
 
 
