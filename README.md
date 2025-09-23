@@ -27,4 +27,7 @@ The project was created as part of my web development learning journey.
 
 ---
 
+## Note
+
+If thinks doesn't look the way it's supposed to be just reload the page
 
