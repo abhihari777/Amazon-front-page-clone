@@ -27,7 +27,16 @@ The project was created as part of my web development learning journey.
 
 ---
 
-## Note
+## ⚠️ Disclaimer
+This project is a practice clone of Amazon’s front page built using only HTML & CSS.
 
-If thinks doesn't look the way it's supposed to be just reload the page
+It is not functional (links, search, cart, and language switch do not work).
+
+Some layouts may appear broken on the first load due to browser rendering or caching issues, but refreshing the page usually fixes it.
+
+The project is intended for learning and portfolio purposes only, not for commercial use.
+
+
+
+---
 
