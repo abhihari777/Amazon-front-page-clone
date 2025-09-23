@@ -34,7 +34,7 @@ It is not functional (links, search, cart, and language switch do not work).
 
 Some layouts may appear broken on the first load due to browser rendering or caching issues, but refreshing the page usually fixes it.
 
-The project is intended for learning and portfolio purposes only, not for commercial use.
+The project is intended for learning purpose only, not for commercial use.
 
 
 
