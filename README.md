@@ -12,6 +12,7 @@ The project was created as part of my web development learning journey.
 - Navigation bar with hover effects  
 - Product section styled with CSS  
 - “See More” button with hover animation  
+- It's completely responsive Works on mobile, tablets and PC
 
 ---
 
@@ -26,7 +27,4 @@ The project was created as part of my web development learning journey.
 
 ---
 
-## 📖 Notes
-- This project is *not fully responsive yet* → works best on desktop.  
-- Future improvements will include responsiveness for mobile & tablet devices.  
 
