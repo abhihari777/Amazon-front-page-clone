@@ -37,6 +37,8 @@ Some layouts may appear broken on the first load due to browser rendering or cac
 The project is intended for learning purpose only, not for commercial use.
 
 
-
 ---
+
+## 🧾 License
+- This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
